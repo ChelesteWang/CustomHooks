@@ -1,0 +1,23 @@
+{
+  "name": "customhooks",
+  "version": "1.0.0",
+  "description": "使用 react hooks 实现一个自用 c 端 headless 组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelesteWang/CustomHooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChelesteWang/CustomHooks/issues"
+  },
+  "homepage": "https://github.com/ChelesteWang/CustomHooks#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
